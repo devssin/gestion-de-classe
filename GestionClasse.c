@@ -49,7 +49,7 @@ int calcAge(int day, int month, int year){
 		return presentYear - year -1;
 	}
 	
-	return year;
+	return presentYear - year ;
 	
 	
 }
